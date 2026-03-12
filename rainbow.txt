@@ -1,2 +1,3 @@
 Le rouge est la première couleur de l'arc-en-ciel.
 L'orange est la deuxième couleur de l'arc-en-ciel.
+Jaune est la troisième couleur de l'arc-en-ciel.
